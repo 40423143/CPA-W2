@@ -1986,8 +1986,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;自評分數60分,影片部分還不太會用上傳和改投影片部分應該ok,需再加油進步&lt;/p&gt;
+    &lt;h1&gt;自評分數&lt;/h1&gt;
+    &lt;p&gt;自評分數70分,影片部分還不太會用上傳和改投影片部分應該ok,需再加油進步&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -2019,7 +2019,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;作業w5&lt;/h1&gt;
+    &lt;h1&gt;作業w2&lt;/h1&gt;
     &lt;p&gt;40423143楊智勝&lt;/p&gt;		
 &lt;/section&gt;
 
@@ -2027,8 +2027,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;今天10/22 第5個作業我還是有點搞不懂在看了教學影片和同學教導後大概知道改投影片內容和上傳,今天一直用reveal 2一直打不開 所以用之前的leo檔案來改&lt;/p&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;今天10/22 第2個作業我還是有點搞不懂在看了教學影片和同學教導後大概知道改投影片內容和上傳,今天一直用reveal 2一直打不開 所以用之前的leo檔案來改&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 		
